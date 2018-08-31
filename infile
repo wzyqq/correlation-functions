@@ -1,0 +1,11 @@
+emission_sample_position_all
+emission_random_sample_position_all
+17471
+500000
+100
+255000.0
+./emission_sample_position/emission_sample_position
+./emission_random_sample_position/emission_random_sample_position
+./emission_sample_position_length/emission_sample_position_length
+./emission_random_sample_position_length/emission_random_sample_position_length
+
